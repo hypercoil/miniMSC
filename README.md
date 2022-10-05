@@ -1,2 +1,2 @@
-# miniMSC
-Minimal MSC dataset for working examples
+# Minimal MSC
+Minimal Midnight Scan Club dataset for working examples
